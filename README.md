@@ -42,5 +42,5 @@ Clicking a task auto-fills event data with the task title and matching color
 
 Setup Instructions:
 
-Clone the repository: git clone https://github.com/SanthoshKumar49451/newcalendar-app/tree/main
+Clone the repository:git clone  https://github.com/SanthoshKumar49451/newcalendar-app
 
