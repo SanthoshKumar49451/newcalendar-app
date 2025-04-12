@@ -27,7 +27,7 @@ const Goal = () => {
       .then(() => {
         setTaskInput('');
         setShowTaskModal(false);
-        dispatch(fetchTasks(selectedGoalId));  // Refresh tasks
+        dispatch(fetchTasks(selectedGoalId)); 
       });
   };
 
